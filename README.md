@@ -24,26 +24,31 @@ images
 
 All About Me
 
-Nationality: Canadian
+  Nationality: Canadian
 
-Ethnicity: European
+  Ethnicity: European
 
-Map
+  Map
 
-*image of Canadian flag*
+  *image of Canadian flag*
 
-I can speak both English  and French
+  I can speak both English  and French
 
-I was born in saint albert Canada
+  I was born in saint albert Canada
 
-My full name is William Marcus Clayton
+  My full name is William Marcus Clayton
 
-some of my nick names are Will, Clay and Claxton
+  some of my nick names are Will, Clay and Claxton
 
-I follow most Christian holidays such as Christmas, Easter, Etc. despite this I'm firmly atheist
+  I follow most Christian holidays such as Christmas, Easter, Etc. despite this I'm firmly atheist
 
-my hobbies include biking, bowling, reading and of course video games
+  my hobbies include biking, bowling, reading and of course video games
 
-the only sport I play is bowling and occasionally badminton
+  the only sport I play is bowling and occasionally badminton
 
-I bite my nails when I'm nervous and am flustered rather quickly when put on the spot
+  I bite my nails when I'm nervous and am flustered rather quickly when put on the spot
+
+  my routine is usually wake up, shower, get dressed, eat, pack lunch, go to school
+  on the weekend my routine is much lazier I wake up, eat lunch, do my chores then just relax all weekend
+
+  I'm not religious
