@@ -52,3 +52,7 @@ All About Me
   on the weekend my routine is much lazier I wake up, eat lunch, do my chores then just relax all weekend
 
   I'm not religious
+
+personality
+
+  I'm said to be funny, I have a very dark sense of humor, I cant do public speaking very well, and I'm very overbearing
