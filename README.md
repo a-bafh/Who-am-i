@@ -11,7 +11,7 @@ interest
 my career plan
   I plan to star my career in either fast food, or retail where I assume most kids start. I'll gun for (manager) or (assistant-manager) to gain as much experience as possible. I'll work during my time in the (university of Alberta) trying to get my degree in (bio-medical engineering). Once I get my degree I'll start to work on a device that can (rehabilitate people whilst they're in a coma).
 images
-
+*bowling image* *biking image* *fencing image* *video of basic French*
 All About Me
 Nationality: Canadian
 Ethnicity: European
@@ -23,4 +23,4 @@ My full name is William Marcus Clayton
 some of my nick names are Will, Clay and Claxton
 I follow most Christian holidays such as Christmas, Easter, Etc. despite this I'm firmly atheist
 
-my hobbies include biking, bowling, and reading
+my hobbies include biking, bowling, reading and of course video games
