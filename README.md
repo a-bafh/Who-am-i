@@ -56,3 +56,5 @@ All About Me
 personality
 
   I'm said to be funny, I have a very dark sense of humor, I cant do public speaking very well, and I'm very overbearing
+
+I listen to multiple types of music from Japanese pop to heavy metal
