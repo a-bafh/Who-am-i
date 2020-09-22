@@ -23,4 +23,4 @@ My full name is William Marcus Clayton
 some of my nick names are Will, Clay and Claxton
 I follow most Christian holidays such as Christmas, Easter, Etc. despite this I'm firmly atheist
 
-my hobbies include biking, bowling,  
+my hobbies include biking, bowling, and reading
